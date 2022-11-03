@@ -1,8 +1,7 @@
 <img width="50%" src="https://raw.githubusercontent.com/FeGarFro/FeGarFro/main/helloworldsh.jpg" />
 
 ### $ Hello World! I'm Felipe, nice to meet you!
-🧑‍💼 Currently working with Salesforce \
-📖 Studying Angular, Java and SQL
+🧑‍💼 Currently working with Salesforce Marketing Cloud
 
 #### $ Here are some stats
 
